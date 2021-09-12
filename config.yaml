@@ -1,0 +1,11 @@
+#config file for report
+    a: 1
+    b: 2
+    source:
+        aol: c://source_data//aol
+        inputfiles: c://source_data//inputfiles
+        oscar: c://source_data//oscar
+    report:
+      rl: c://report//aol//
+      rs: c://report//rs//
+      rt: c://report//oscar//
